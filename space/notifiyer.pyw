@@ -47,4 +47,4 @@ while True:
             app_icon='icon.ico',  # e.g. 'C:\\icon_32x32.ico'
             timeout=10,  # seconds
         )
-    time.sleep(2400)
+    time.sleep(600)
